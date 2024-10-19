@@ -92,8 +92,8 @@ Hi 👋 I'm Beer Welcome to my Portfolio
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beerser&theme=2077" alt="Languages per Repo" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beerser&theme=2077" alt="Most Commit Language" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beerser&theme=github_dark" alt="Languages per Repo" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beerser&theme=github_dark" alt="Most Commit Language" height="200">
 </p>
 
 
