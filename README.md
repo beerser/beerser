@@ -87,12 +87,14 @@ Hi 👋 I'm Beer Welcome to my Portfolio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beerser&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerser&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=beerser&show_icons=true&bg_color=30,2f2f2f,1a1a1a&title_color=c0c0c0&text_color=a9a9a9" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerser&layout=compact&bg_color=30,2f2f2f,1a1a1a&title_color=c0c0c0&text_color=a9a9a9" alt="Top Languages" height="180">
 </p>
 
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beerser&theme=2077" alt="Languages per Repo" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beerser&theme=2077" alt="Most Commit Language" height="180">
+</p>
 
 
 
