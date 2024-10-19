@@ -11,12 +11,13 @@ Hi 👋 I'm Beer Welcome to my Portfolio
 </div>
 
 
-## 💻 About Me
-- 🔭 Currently working on **[your project name]**
-- 🌱 Learning: **AutoCAD 2025**, **Lofi Music Creation**, and **Cultural Studies in South Korea** 🇰🇷 skmdf;kms; mdfm;sdmf;lsld;mf;olsmdfol
-- 👯 Looking to collaborate on: **Web apps for mobile optimization**
-- 🤔 Exploring: Self-learning CAD software 🛠️
-- ⚡ Fun fact: Coffee runs through my veins ☕
+## 🎓 About Me
+
+- Programming Languages  (e.g., Python, Java, C, C++, JavaScript, etc.) 🖥️</br>
+- Web Development  (React,Vue,etc. ) 🌐</br>
+- Algorithms and Data Structures 📊</br>
+- Object-Oriented Programming (OOP) 🧠</br>
+
 
 
 
