@@ -13,11 +13,17 @@ Hi 👋 I'm Beer Welcome to my Portfolio
 
 ## 🎓 About Me
 
-- Programming Languages  (e.g., Python, Java, C, C++, JavaScript, etc.) 🖥️</br>
-- Web Development  (React,Vue,etc. ) 🌐</br>
-- Algorithms and Data Structures 📊</br>
-- Object-Oriented Programming (OOP) 🧠</br>
+  &emsp;&emsp;I'm Thanakorn Jaithon, a Computer Science student 🎓 with a passion for technology and programming 💻. I have the ability to learn and apply my knowledge to real-world projects 🌍. As a student, I am continuously improving my skills in various areas of computer science.</br>
 
+Here are some topics I have studied or am currently exploring:</br>
+      &emsp;&emsp; - Programming Languages  (e.g., Python, Java, C, C++, JavaScript, etc.) 🖥️</br>
+      &emsp;&emsp; - Web Development  (React,Vue,etc. ) 🌐</br>
+      &emsp;&emsp;  - Algorithms and Data Structures 📊</br>
+      &emsp;&emsp;  - Object-Oriented Programming (OOP) 🧠</br>
+
+```
+🚀 I'm excited to collaborate on interesting projects and continue growing in the tech field! Let's connect! 🤝
+```
 
 
 
