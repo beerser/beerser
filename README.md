@@ -98,37 +98,3 @@ Here are some topics I have studied or am currently exploring:</br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerser&layout=compact&bg_color=30,2f2f2f,1a1a1a&title_color=c0c0c0&text_color=a9a9a9" alt="Top Languages" height="180">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beerser&theme=github_dark" alt="Languages per Repo" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beerser&theme=github_dark" alt="Most Commit Language" height="200">
-</p>
-
-
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://discord.com/users/beerser" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" style="margin-right: 10px;" />
-    </picture>
-  </a>
-
-  <a href="https://www.facebook.com/bearjaiton?locale=th_TH" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" style="margin-right: 10px;" />
-    </picture>
-  </a>
-
-  <a href="http://www.instagram.com/beersxr_/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-    </picture>
-  </a>
-</p>
